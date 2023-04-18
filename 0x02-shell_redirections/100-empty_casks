@@ -1,0 +1,5 @@
+#!/bin/bash
+HEAD 
+find . -empty -printf "f\n"
+find . -empty | ls -la
+> folder
